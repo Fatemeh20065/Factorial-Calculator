@@ -1,0 +1,6 @@
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\bin\Debug\Fourth_question.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\bin\Debug\Fourth_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\bin\Debug\Fourth_question.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\obj\Debug\Fourth_question.csprojResolveAssemblyReference.cache
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\obj\Debug\Fourth_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Fourth_question\Fourth_question\obj\Debug\Fourth_question.pdb
